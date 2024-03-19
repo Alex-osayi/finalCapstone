@@ -32,6 +32,9 @@ The script essentially demonstrates how to perform sentiment analysis on data us
 - Ensure the data in in the same folder as the python script
 - Run the Python script!
 - Analyze the generated output, which will contain sentiment analysis results.
+![SA1](https://github.com/Alex-osayi/finalCapstone/assets/156614065/c6a1e054-6e5b-4677-b17f-756361315de2)
+![SA2](https://github.com/Alex-osayi/finalCapstone/assets/156614065/8dd98b82-14dd-4e36-b86f-f51e2f70efb6)
+
 
 ## Dependencies
 You need to have the following libraries installed in your Python environment to run this code.
