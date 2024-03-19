@@ -34,13 +34,16 @@ The script essentially demonstrates how to perform sentiment analysis on data us
 - Analyze the generated output, which will contain sentiment analysis results.
 
 ## Dependencies
-Additionally, you need to have spaCy and the SpacyTextBlob library installed in your Python environment to run this code.
+You need to have the following libraries installed in your Python environment to run this code.
+spaCy: Python library for natural language processing 
+SpacyTextBlob:  
+
 
 ## 👯Contribution
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 - Fork the repository.
-- Create a new branch (git checkout -b feature/improvement)
+- Create a new branch 
 - Make your changes.
-- Commit your changes (git commit -am 'Add new feature')
-- Push to the branch (git push origin feature/improvement)
+- Commit your changes 
+- Push to the branch 
 - Create a new Pull Request.
