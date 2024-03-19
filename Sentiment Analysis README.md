@@ -35,8 +35,8 @@ The script essentially demonstrates how to perform sentiment analysis on data us
 
 ## Dependencies
 You need to have the following libraries installed in your Python environment to run this code.
-spaCy: Python library for natural language processing 
-SpacyTextBlob:  
+- spaCy: Python library for natural language processing 
+- SpacyTextBlob: SpacyTextBlob primarily focuses on sentiment analysis aspects of TextBlob 
 
 
 ## 👯Contribution
