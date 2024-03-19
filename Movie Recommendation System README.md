@@ -6,19 +6,20 @@ The Movie Recommendation System is a Python application designed to provide pers
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+- [Contribution](#contribution)
 
 ## Installation
 
 To install and run the Movie Recommendation System locally, follow these steps:
 
-1. Clone the repository:
+- Clone the repository:
 
    ```bash
    git clone https://github.com/yourusername/movie-recommendation-system.git
 Navigate to the project directory:
 
-bash
-cd movie-recommendation-system
+## Usage
+Once you have installed the Movie Recommendation System, you can run it by executing the following command:
+
+## Contribution
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
