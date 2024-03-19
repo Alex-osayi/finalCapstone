@@ -4,9 +4,17 @@ The Movie Recommendation System is a Python application designed to provide pers
 
 ## Table of Contents
 
+- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Dependencies](#dependencies)
 - [Contribution](#contribution)
+
+## Features
+
+- Personalized movie recommendations based on user input.
+- Natural language processing for analyzing similarity between user descriptions and movie descriptions.
+- Easy-to-use interface for inputting user descriptions and receiving recommendations.
 
 ## Installation
 
@@ -20,6 +28,11 @@ Navigate to the project directory:
 
 ## Usage
 Once you have installed the Movie Recommendation System, you can run it by executing the following command:
+
+## Dependencies
+The Movie Recommendation System relies on the following dependencies:
+
+spaCy: Python library for natural language processing.
 
 ## Contribution
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
