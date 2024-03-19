@@ -24,7 +24,9 @@ To install and run the Movie Recommendation System locally, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/movie-recommendation-system.git
-Navigate to the project directory:
+- Navigate to the project directory:
+   ```bash
+   cd movie-recommendation-system
 
 ## Usage
 Once you have installed the Movie Recommendation System, you can run it by executing the following command:
@@ -35,4 +37,10 @@ The Movie Recommendation System relies on the following dependencies:
 spaCy: Python library for natural language processing.
 
 ## Contribution
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please  follow these steps:
+- Fork the repository.
+- Create a new branch 
+- Make your changes.
+- Commit your changes 
+- Push to the branch 
+- Create a new Pull Request.
