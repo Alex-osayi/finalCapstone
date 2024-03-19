@@ -34,7 +34,7 @@ Once you have installed the Movie Recommendation System, you can run it by execu
 ## Dependencies
 The Movie Recommendation System relies on the following dependencies:
 
-spaCy: Python library for natural language processing.
+- spaCy: Python library for natural language processing.
 
 ## Contribution
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please  follow these steps:
